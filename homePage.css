@@ -6,6 +6,7 @@
     justify-content: center;
     height: 4.5vh;
     font-weight: bold;
+    box-shadow: 5px 5px 5px #333;
 }
 
 .topnav a {
@@ -59,7 +60,8 @@ body {
     height: 15vh;
     overflow: hidden;
 }
-.pageTitle p{
+
+.pageTitle p {
     font-size: 500%;
     background-color: rgba(0, 0, 0, 0.606);
     width: 100%;
